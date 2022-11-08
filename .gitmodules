@@ -1,0 +1,6 @@
+[submodule "DAIO-Frontend"]
+	path = DAIO-Frontend
+	url = https://github.com/nicofishman/DAIO-Frontend.git
+[submodule "DAIO-Backend"]
+	path = DAIO-Backend
+	url = https://github.com/nicofishman/DAIO-Backend.git
